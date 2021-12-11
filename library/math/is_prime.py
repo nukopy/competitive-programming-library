@@ -1,6 +1,7 @@
 def is_prime(num: int) -> bool:
     """入力された整数が「素数であるか」を判定する関数
     時間計算量：O(N)
+    TODO: O(N) -> O(√N) へ直す
 
     Args:
         num (int): 素数判定の対象となる数
