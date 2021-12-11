@@ -1,0 +1,5 @@
+# See https://black.readthedocs.io/en/stable/the_black_code_style/current_style.html#line-length for more details
+# See https://blog.hirokiky.org/entry/2019/06/03/202745 for more details
+[flake8]
+ignore = E203,E266,E501,W503
+max-line-length = 120
