@@ -1,6 +1,6 @@
 import pytest
 
-from library.math.is_prime import is_prime
+from library.algorithm.math.is_prime import is_prime
 
 
 @pytest.mark.parametrize(

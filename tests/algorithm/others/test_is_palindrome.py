@@ -1,6 +1,6 @@
 import pytest
 
-from library.others.is_palindrome import is_palindrome
+from library.algorithm.other.is_palindrome import is_palindrome
 
 
 # parametrize
